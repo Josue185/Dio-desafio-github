@@ -1,0 +1,6 @@
+o init. Ele inicializa um projeto Git, uma maneira simples para dizer: 
+“adicione os arquivos necessários ao Git na raiz da pasta em que você está”. 
+Simplesmente acione o comando cd para o diretório do seu projeto e digite o seguinte:
+
+
+$ git init
